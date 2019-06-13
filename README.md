@@ -9,3 +9,5 @@
 На сколько я помню, все писал через обычный блокнот :)
 
 Так же просмотрет его можно по ссылке: [projects.mypass.cloud/school](http://projects.mypass.cloud/school/)
+
+![Home Page](http://projects.mypass.cloud/school/images/index.png)
